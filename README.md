@@ -4,7 +4,7 @@ I'm a Senior Software Engineer passionate about building reliable, scalable, and
 
 I believe great software is not just about making things work, but also about making them maintainable, scalable, and easy to evolve.
 
-### 🚀 What I Do
+### What I Do
 
 - **Software Engineering:** Designing and developing reliable, maintainable, and scalable software solutions mostly with Ruby and Ruby on Rails.
 - **API Development:** Designing and developing RESTful APIs with a focus on consistency, performance, and maintainability.
@@ -12,7 +12,7 @@ I believe great software is not just about making things work, but also about ma
 - **System Design:** Designing backend architectures with consideration for scalability, reliability, and long-term maintainability.
 - **Database Engineering:** Working with relational and non-relational data solutions, query optimization, and efficient data management.
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 - Ruby
 - Ruby on Rails
 - JavaScript (Node.js, Typescript, React)
@@ -21,7 +21,7 @@ I believe great software is not just about making things work, but also about ma
 - Elasticsearch
 - Sidekiq
 
-### 🧠 Engineering Principles
+### Engineering Principles
 
 I care about more than just writing code. I believe in building software that is easy to understand, maintain, test, and scale.
 
@@ -32,7 +32,7 @@ I care about more than just writing code. I believe in building software that is
 - **Problem Solving:** Enjoying technical challenges and finding practical solutions without unnecessary complexity.
 - **Continuous Learning:** Staying curious, exploring new technologies, and continuously seeking knowledge to become a better engineer.
 
-### ⚡ Beyond Coding
+### Beyond Coding
 
 I'm always curious and enjoy understanding how things work under the hood. I believe learning is a continuous process, and there's always something new to explore, improve, and build.
 
