@@ -23,12 +23,13 @@ I believe great software is not just about making things work, but also about ma
 
 ### Engineering Principles
 
-I care about more than just writing code. I believe in building software that is easy to understand, maintain, test, and scale.
+I care about more than just writing code. I focus on building software that is easy to understand, maintain, test, and scale, while using AI as a tool to improve how I work and solve problems.
 
 - **High Ownership:** Taking responsibility for the systems I build, from understanding requirements to delivering reliable solutions.
-- **Clean Code:** Writing readable, simple, and well-structured code that is easy for others to understand and maintain.
+- **Engineering Excellence:** Building software that is scalable, reliable, and easy to maintain, while making good technical decisions and using AI to work smarter.
 - **Maintainability:** Prioritizing software design and architecture that make future changes easier and safer.
 - **Scalability:** Thinking beyond immediate requirements and considering how systems evolve as workloads and business needs grow.
+- **AI-Assisted Engineering:** Using AI as part of my daily development workflow, not to blindly generate code, but to think through problems, explore solutions, and build better software while keeping engineering fundamentals in control.
 - **Problem Solving:** Enjoying technical challenges and finding practical solutions without unnecessary complexity.
 - **Continuous Learning:** Staying curious, exploring new technologies, and continuously seeking knowledge to become a better engineer.
 
