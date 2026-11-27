@@ -1,37 +1,24 @@
 ## Hi there 👋
 
-I'm a Senior Software Engineer passionate about building reliable, scalable, and maintainable software systems. I enjoy solving complex technical problems, designing backend architectures, and writing clean, efficient code that delivers long-term value.
+I'm a Senior Software Engineer with 8+ years of experience building backend systems and APIs, primarily using Ruby and Ruby on Rails.
 
-I believe great software is not just about making things work, but also about making them maintainable, scalable, and easy to evolve.
+I enjoy solving complex technical problems, designing backend architectures, and building software that is reliable, maintainable, and evolves with business needs.
 
-### What I Do
+### Core Expertise
 
-- **Software Engineering:** Designing and developing reliable, maintainable, and scalable software solutions mostly with Ruby and Ruby on Rails.
-- **API Development:** Designing and developing RESTful APIs with a focus on consistency, performance, and maintainability.
-- **System Integration:** Connecting different services and systems to create seamless and reliable workflows.
-- **System Design:** Designing backend architectures with consideration for scalability, reliability, and long-term maintainability.
-- **Database Engineering:** Working with relational and non-relational data solutions, query optimization, and efficient data management.
-
-### Tech Stack & Tools
-- Ruby
-- Ruby on Rails
-- JavaScript (Node.js, Typescript, React)
-- PostgreSQL
-- Redis
-- Elasticsearch
-- Sidekiq
+- **Engineering**: Ruby, Ruby on Rails, Node.js, TypeScript, React
+- **API Development**: RESTful APIs, System Integration
+- **Database Engineering**: PostgreSQL, Redis, Elasticsearch
+- **Background Processing**: Sidekiq
+- **System Design**: Architecture, Scalability, Reliability
 
 ### Engineering Principles
 
-I care about more than just writing code. I focus on building software that is easy to understand, maintain, test, and scale, while using AI as a tool to improve how I work and solve problems.
-
-- **High Ownership:** Taking responsibility for the systems I build, from understanding requirements to delivering reliable solutions.
-- **Engineering Excellence:** Building software that is scalable, reliable, and easy to maintain, while making good technical decisions.
-- **Maintainability:** Prioritizing software design and architecture that make future changes easier and safer.
-- **Scalability:** Thinking beyond immediate requirements and considering how systems evolve as workloads and business needs grow.
-- **AI-Assisted Engineering:** Using AI as part of my daily development workflow, not to blindly generate code, but to think through problems, explore solutions, and build better software while keeping engineering fundamentals in control.
-- **Problem Solving:** Enjoying technical challenges and finding practical solutions without unnecessary complexity.
-- **Continuous Learning:** Staying curious, exploring new technologies, and continuously seeking knowledge to become a better engineer.
+- **High Ownership:** Taking responsibility for the systems I build, from understanding problems to delivering reliable solutions.
+- **Engineering Excellence:** Making thoughtful technical decisions and building software that is reliable, maintainable, and scalable.
+- **Pragmatism:** Choosing practical solutions over unnecessary complexity.
+- **Continuous Improvement:** Continuously learning, exploring new technologies, and improving engineering practices.
+- **AI-Assisted Engineering:** Leveraging AI to improve productivity, explore solutions, and solve complex problems while keeping engineering fundamentals in control.
 
 ### Beyond Coding
 
